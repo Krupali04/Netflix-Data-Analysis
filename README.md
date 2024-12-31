@@ -1,5 +1,7 @@
 # New York Airbnb Data Analysis
-![Image](https://github.com/Krupali04/New-York-Airbnb-Data-Analysis/blob/main/NY-Airbnb.webp)
+
+<img src="https://github.com/Krupali04/New-York-Airbnb-Data-Analysis/blob/main/NY-Airbnb.webp" alt="New York Airbnb Analysis" width="600" height="300">
+
 This project provides a detailed analysis of New York Airbnb listings, focusing on uncovering key trends and insights using data visualization and exploratory techniques.
 
 ## Highlights
