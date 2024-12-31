@@ -1,5 +1,5 @@
 # New York Airbnb Data Analysis
-
+NY-Airbnb.webp
 This project provides a detailed analysis of New York Airbnb listings, focusing on uncovering key trends and insights using data visualization and exploratory techniques.
 
 ## Highlights
